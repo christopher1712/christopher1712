@@ -1,5 +1,13 @@
-### Hi there 👋
+### Boas vindas ao meu perfil :accessibility:
+Meu nome e Christopher de farias Clazer
+Estou aprendendo a programar com a plataforma Alura. 📸
+Me interessam as linguagens de programação: JavaScript e Scratch
+Tambem estou aprendendo as linguagens de marcação: HTML e CSS.
+Utilizo esse espao para salvar meus projetos e compartilhar meus códigos
 
+### Meu email para contato e 📧
+
+christopher.clazer@escola.pr.gov.br
 <!--
 **christopher1712/christopher1712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
