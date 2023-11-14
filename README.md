@@ -1,5 +1,5 @@
 ### Boas vindas ao meu perfil :accessibility:
-Meu nome e Christopher de farias Clazer
+Meu nome e Christopher de Farias Clazer
 Estou aprendendo a programar com a plataforma Alura. 📸
 Me interessam as linguagens de programação: JavaScript e Scratch
 Tambem estou aprendendo as linguagens de marcação: HTML e CSS.
